@@ -1,0 +1,16 @@
+Trabalho final da disciplina de Programação Distribuída
+
+Projeto baseado no "wsn1", presente aqui no código fonte, e no "wsn2", mostrado em aula, modificados para atender aos requisitos da atividade.
+
+""
+Como discutido em aula e mostrado no vídeo disponibilizado, o objetivo desse trabalho é implementar dois nós no Sinalgo para envio e recebimento de mensagens.
+
+
+O primeiro nó será descrito como nó Sink ou Estação Base e terá como objetivo criar uma rota até todos os nós da rede (como mostrado no exemplo de rotas do Sinalgo) e, posteriormente, receber indefinidamente pacotes dos nós que estiverem mais próximos.
+
+O segundo nó será descrito como nó Sensor e terá como objetivo receber pacotes de rotas de quaisquer nós Sinks e, após, ser capaz de enviar pacotes para o nó Sink  mais próximo.
+
+O trabalho é individual.
+Trabalhos iguais terão conceito zero.
+O prazo de entrega é até o dia 01/12/2021, em que, individualmente, o aluno apresentará o trabalho (código) para mim
+""
